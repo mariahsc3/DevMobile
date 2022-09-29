@@ -11,6 +11,7 @@ export default function Titulo(){
 
 const styles = StyleSheet.create({
     title: {
+        alignItems: 'center',
         color: '#fff',
         fontSize: 50,
         marginBottom: 5,
